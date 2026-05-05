@@ -484,4 +484,3 @@ This project is proprietary and confidential.
 For issues and questions, please refer to the troubleshooting section or contact the development team.
 #   F a c e G u a r d - A t t e n d a n c e 
  
- 
