@@ -51,20 +51,20 @@ A production-grade, enterprise-level full-stack web application for intelligent 
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                     Frontend (React 18.2)                    │
-│  • Vite Build Tool  • Tailwind CSS  • Zustand State Mgmt     │
-│  • Framer Motion    • React Router   • Axios HTTP Client     │
+│                     Frontend (React 18.2)                   │
+│  • Vite Build Tool  • Tailwind CSS  • Zustand State Mgmt    │
+│  • Framer Motion    • React Router   • Axios HTTP Client    │
 └─────────────────────────────────────────────────────────────┘
                               ↓
 ┌─────────────────────────────────────────────────────────────┐
-│                  Nginx Reverse Proxy                         │
+│                  Nginx Reverse Proxy                        │
 │  • SSL/TLS Termination  • Load Balancing  • Caching         │
 └─────────────────────────────────────────────────────────────┘
                               ↓
 ┌─────────────────────────────────────────────────────────────┐
-│              Backend API (FastAPI + Python)                  │
-│  • RESTful Endpoints  • Dependency Injection  • Async I/O    │
-│  • Error Handling     • Request Validation    • Logging      │
+│              Backend API (FastAPI + Python)                 │
+│  • RESTful Endpoints  • Dependency Injection  • Async I/O   │
+│  • Error Handling     • Request Validation    • Logging     │
 └─────────────────────────────────────────────────────────────┘
                               ↓
 ┌──────────────────┬──────────────────┬────────────────────┐
@@ -76,7 +76,7 @@ A production-grade, enterprise-level full-stack web application for intelligent 
 └──────────────────┴──────────────────┴────────────────────┘
                               ↓
 ┌─────────────────────────────────────────────────────────────┐
-│           SQLAlchemy ORM + PostgreSQL (13 Tables)            │
+│           SQLAlchemy ORM + PostgreSQL (13 Tables)           │
 │  • User, Student, Teacher, Admin  • Attendance Records      │
 │  • Face Embeddings  • Fraud Logs  • Audit Trail             │
 └─────────────────────────────────────────────────────────────┘
