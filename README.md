@@ -88,7 +88,7 @@ A production-grade, enterprise-level full-stack web application for intelligent 
 - **Framework**: FastAPI 0.104.1 (async Python web framework)
 - **Database**: PostgreSQL 16 with SQLAlchemy ORM
 - **Authentication**: JWT (python-jose) + bcrypt
-- **AI/ML**: 
+- **AI/ML**:
   - face_recognition (128-D embeddings)
   - MediaPipe Face Mesh (pose detection)
   - OpenCV (image processing)
@@ -482,5 +482,3 @@ This project is proprietary and confidential.
 ## 👥 Support
 
 For issues and questions, please refer to the troubleshooting section or contact the development team.
-#   F a c e G u a r d - A t t e n d a n c e 
- 
